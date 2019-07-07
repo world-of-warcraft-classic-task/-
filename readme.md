@@ -35,7 +35,10 @@
 
 ### 提里奥 弗丁的故事
 
-![](./assets/14.png)
+![](./assets/30.png)
+![](./assets/31.png)
+![](./assets/32.png)
+![](./assets/33.png)
 
 ### 泰兰之锤
 
@@ -55,3 +58,10 @@
 
 ![](./assets/21.png)
 ![](./assets/22.png)
+![](./assets/40.png)
+![](./assets/41.png)
+![](./assets/42.png)
+
+## 爱与家庭
+
+![](./assets/43.png)
